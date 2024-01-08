@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Taken</h1>
     <h2>I mainly use gitlab for personal projects</h2>
-    <a href="" target= "blank"><img src="https://img.shields.io/gitlab/v/tag/TakenMC%2Ftakenmc?style=for-the-badge&logo=gitlab&label=TakenMC">
+    <a href="https://gitlab.com/TakenMC/takenmc" target= "blank"><img src="https://img.shields.io/gitlab/v/tag/TakenMC%2Ftakenmc?sort=date&style=for-the-badge&logo=gitlab&label=TakenMC&color=eeaadb">
 </div>
 
 <div align="center">
