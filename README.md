@@ -10,4 +10,6 @@
     <a href="https://x.com/igntakie" target="blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FignTakie&style=for-the-badge&logo=x&label=Account"></a>
 </div>
 
-![Taken's GitHub stats](https://grs.mairimashita.org/api?username=TakenMC&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+<div align="center">
+    <a href="https://github.com/TakenMC" target="blank"><img src="https://grs.mairimashita.org/api?username=TakenMC&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"></a>
+</div>
